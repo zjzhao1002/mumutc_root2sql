@@ -1,4 +1,4 @@
-CREATE TABLE `mumutc` (
+CREATE TABLE `PROCESS` (
     njets   INT,
     ptj1    FLOAT,
     ptj2    FLOAT,

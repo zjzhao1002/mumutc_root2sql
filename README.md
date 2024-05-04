@@ -1,2 +1,4 @@
 # root2sql
-A program to convert ROOT data to a SQL table.
+This program can convert data in ROOT file to a SQL table. 
+Currently, the input file name and table name are input manually. 
+I may add a script to do that in the future.

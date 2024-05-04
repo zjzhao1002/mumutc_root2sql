@@ -11,4 +11,5 @@ run.sh PROCESS
 ```
 It will find a ROOT file with **PROCESS.root** and write data to a table called **PROCESS** in database with name **test**.
 
-It can only read data that were used in [https://arxiv.org/abs/2302.01143](https://arxiv.org/abs/2302.01143).
+It can only read data that output by [https://github.com/zjzhao1002/mumutc_analysis](https://github.com/zjzhao1002/mumutc_analysis), 
+which were used in [https://arxiv.org/abs/2302.01143](https://arxiv.org/abs/2302.01143).

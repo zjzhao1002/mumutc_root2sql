@@ -1,4 +1,4 @@
-# root2sql
+# mumutc_root2sql
 This program can convert data in ROOT file to a SQL table. 
 You has to install 
 * ROOT ([https://root.cern/](https://root.cern/))
